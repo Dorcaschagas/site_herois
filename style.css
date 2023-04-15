@@ -60,8 +60,7 @@
 .categoria{
     background-color: black;
     display: flex;
-    justify-content: center;
-    gap: 10%;
+    justify-content: space-around;
 }
 .categoria a{
     color: white;
@@ -78,7 +77,6 @@
     display: flex;
     justify-content: space-around;
     padding: 10px;
-    gap: 220px;
   }
 
 .sobre{
