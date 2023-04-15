@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+a{
+    text-decoration: none;
+    padding: 5px;
+}
